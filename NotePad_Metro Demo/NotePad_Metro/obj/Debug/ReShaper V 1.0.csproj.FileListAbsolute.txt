@@ -1,0 +1,29 @@
+D:\NotePad_Metro Demo 10.08.17\NotePad_Metro\bin\Debug\NotePad_Metro.exe.config
+D:\NotePad_Metro Demo 10.08.17\NotePad_Metro\bin\Debug\NotePad_Metro.exe
+D:\NotePad_Metro Demo 10.08.17\NotePad_Metro\bin\Debug\NotePad_Metro.pdb
+D:\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\ReShaper V 1.0.csprojResolveAssemblyReference.cache
+D:\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\NotePad_Metro.Form1.resources
+D:\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\NotePad_Metro.Properties.Resources.resources
+D:\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\ReShaper V 1.0.csproj.GenerateResource.Cache
+D:\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\NotePad_Metro.exe
+D:\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\NotePad_Metro.pdb
+F:\NotePad_Metro Demo 10.08.17\NotePad_Metro\bin\Debug\NotePad_Metro.exe.config
+F:\NotePad_Metro Demo 10.08.17\NotePad_Metro\bin\Debug\NotePad_Metro.exe
+F:\NotePad_Metro Demo 10.08.17\NotePad_Metro\bin\Debug\NotePad_Metro.pdb
+F:\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\ReShaper V 1.0.csprojResolveAssemblyReference.cache
+F:\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\NotePad_Metro.Form1.resources
+F:\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\NotePad_Metro.Properties.Resources.resources
+F:\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\ReShaper V 1.0.csproj.GenerateResource.Cache
+F:\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\ReShaper V 1.0.csproj.CoreCompileInputs.cache
+F:\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\NotePad_Metro.exe
+F:\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\NotePad_Metro.pdb
+C:\Users\Hp\Desktop\ReShaper\NotePad_Metro Demo 10.08.17\NotePad_Metro\bin\Debug\NotePad_Metro.exe.config
+C:\Users\Hp\Desktop\ReShaper\NotePad_Metro Demo 10.08.17\NotePad_Metro\bin\Debug\NotePad_Metro.exe
+C:\Users\Hp\Desktop\ReShaper\NotePad_Metro Demo 10.08.17\NotePad_Metro\bin\Debug\NotePad_Metro.pdb
+C:\Users\Hp\Desktop\ReShaper\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\NotePad_Metro.Form1.resources
+C:\Users\Hp\Desktop\ReShaper\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\NotePad_Metro.Properties.Resources.resources
+C:\Users\Hp\Desktop\ReShaper\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\ReShaper V 1.0.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\ReShaper\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\ReShaper V 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\ReShaper\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\NotePad_Metro.exe
+C:\Users\Hp\Desktop\ReShaper\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\NotePad_Metro.pdb
+C:\Users\Hp\Desktop\ReShaper\NotePad_Metro Demo 10.08.17\NotePad_Metro\obj\Debug\ReShaper V 1.0.csprojResolveAssemblyReference.cache

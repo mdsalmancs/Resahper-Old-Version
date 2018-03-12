@@ -1,0 +1,9 @@
+C:\Users\Windows-10\Documents\Visual Studio 2012\Projects\NotePad\NotePad_Metro\bin\Debug\NotePad_Metro.exe.config
+C:\Users\Windows-10\Documents\Visual Studio 2012\Projects\NotePad\NotePad_Metro\bin\Debug\NotePad_Metro.exe
+C:\Users\Windows-10\Documents\Visual Studio 2012\Projects\NotePad\NotePad_Metro\bin\Debug\NotePad_Metro.pdb
+C:\Users\Windows-10\Documents\Visual Studio 2012\Projects\NotePad\NotePad_Metro\obj\Debug\NotePad.csprojResolveAssemblyReference.cache
+C:\Users\Windows-10\Documents\Visual Studio 2012\Projects\NotePad\NotePad_Metro\obj\Debug\NotePad_Metro.Form1.resources
+C:\Users\Windows-10\Documents\Visual Studio 2012\Projects\NotePad\NotePad_Metro\obj\Debug\NotePad_Metro.Properties.Resources.resources
+C:\Users\Windows-10\Documents\Visual Studio 2012\Projects\NotePad\NotePad_Metro\obj\Debug\NotePad.csproj.GenerateResource.Cache
+C:\Users\Windows-10\Documents\Visual Studio 2012\Projects\NotePad\NotePad_Metro\obj\Debug\NotePad_Metro.exe
+C:\Users\Windows-10\Documents\Visual Studio 2012\Projects\NotePad\NotePad_Metro\obj\Debug\NotePad_Metro.pdb
